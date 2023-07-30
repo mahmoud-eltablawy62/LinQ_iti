@@ -1,0 +1,15 @@
+D:\tasks\LinQ_iti\contianLinQ\bin\Debug\net6.0\contianLinQ.exe
+D:\tasks\LinQ_iti\contianLinQ\bin\Debug\net6.0\contianLinQ.deps.json
+D:\tasks\LinQ_iti\contianLinQ\bin\Debug\net6.0\contianLinQ.runtimeconfig.json
+D:\tasks\LinQ_iti\contianLinQ\bin\Debug\net6.0\contianLinQ.dll
+D:\tasks\LinQ_iti\contianLinQ\bin\Debug\net6.0\contianLinQ.pdb
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.csproj.AssemblyReference.cache
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.AssemblyInfoInputs.cache
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.AssemblyInfo.cs
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.csproj.CoreCompileInputs.cache
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.dll
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\refint\contianLinQ.dll
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.pdb
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\contianLinQ.genruntimeconfig.cache
+D:\tasks\LinQ_iti\contianLinQ\obj\Debug\net6.0\ref\contianLinQ.dll
