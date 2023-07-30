@@ -1,0 +1,15 @@
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.csproj.AssemblyReference.cache
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.AssemblyInfoInputs.cache
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.AssemblyInfo.cs
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.csproj.CoreCompileInputs.cache
+D:\tasks\LinQ_iti\methodChaning_LinQ\bin\Debug\net6.0\methodChaning_LinQ.exe
+D:\tasks\LinQ_iti\methodChaning_LinQ\bin\Debug\net6.0\methodChaning_LinQ.deps.json
+D:\tasks\LinQ_iti\methodChaning_LinQ\bin\Debug\net6.0\methodChaning_LinQ.runtimeconfig.json
+D:\tasks\LinQ_iti\methodChaning_LinQ\bin\Debug\net6.0\methodChaning_LinQ.dll
+D:\tasks\LinQ_iti\methodChaning_LinQ\bin\Debug\net6.0\methodChaning_LinQ.pdb
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.dll
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\refint\methodChaning_LinQ.dll
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.pdb
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\methodChaning_LinQ.genruntimeconfig.cache
+D:\tasks\LinQ_iti\methodChaning_LinQ\obj\Debug\net6.0\ref\methodChaning_LinQ.dll
