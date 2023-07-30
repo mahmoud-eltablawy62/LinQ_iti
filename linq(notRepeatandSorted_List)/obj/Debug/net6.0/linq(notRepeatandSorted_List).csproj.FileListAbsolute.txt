@@ -1,0 +1,15 @@
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\bin\Debug\net6.0\linq(notRepeatandSorted_List).exe
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\bin\Debug\net6.0\linq(notRepeatandSorted_List).deps.json
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\bin\Debug\net6.0\linq(notRepeatandSorted_List).runtimeconfig.json
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\bin\Debug\net6.0\linq(notRepeatandSorted_List).dll
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\bin\Debug\net6.0\linq(notRepeatandSorted_List).pdb
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).csproj.AssemblyReference.cache
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).AssemblyInfoInputs.cache
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).AssemblyInfo.cs
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).csproj.CoreCompileInputs.cache
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).dll
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\refint\linq(notRepeatandSorted_List).dll
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).pdb
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\linq(notRepeatandSorted_List).genruntimeconfig.cache
+D:\tasks\LinQ_iti\linq(notRepeatandSorted_List)\obj\Debug\net6.0\ref\linq(notRepeatandSorted_List).dll
