@@ -1,0 +1,15 @@
+D:\tasks\LinQ_iti\select_Linq\bin\Debug\net6.0\select_Linq.exe
+D:\tasks\LinQ_iti\select_Linq\bin\Debug\net6.0\select_Linq.deps.json
+D:\tasks\LinQ_iti\select_Linq\bin\Debug\net6.0\select_Linq.runtimeconfig.json
+D:\tasks\LinQ_iti\select_Linq\bin\Debug\net6.0\select_Linq.dll
+D:\tasks\LinQ_iti\select_Linq\bin\Debug\net6.0\select_Linq.pdb
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.csproj.AssemblyReference.cache
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.AssemblyInfoInputs.cache
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.AssemblyInfo.cs
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.csproj.CoreCompileInputs.cache
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.dll
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\refint\select_Linq.dll
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.pdb
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\select_Linq.genruntimeconfig.cache
+D:\tasks\LinQ_iti\select_Linq\obj\Debug\net6.0\ref\select_Linq.dll
