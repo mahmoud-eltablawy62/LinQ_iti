@@ -1,0 +1,15 @@
+D:\tasks\LinQ_iti\multipul\bin\Debug\net6.0\multipul.exe
+D:\tasks\LinQ_iti\multipul\bin\Debug\net6.0\multipul.deps.json
+D:\tasks\LinQ_iti\multipul\bin\Debug\net6.0\multipul.runtimeconfig.json
+D:\tasks\LinQ_iti\multipul\bin\Debug\net6.0\multipul.dll
+D:\tasks\LinQ_iti\multipul\bin\Debug\net6.0\multipul.pdb
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.csproj.AssemblyReference.cache
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.AssemblyInfoInputs.cache
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.AssemblyInfo.cs
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.csproj.CoreCompileInputs.cache
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.dll
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\refint\multipul.dll
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.pdb
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\multipul.genruntimeconfig.cache
+D:\tasks\LinQ_iti\multipul\obj\Debug\net6.0\ref\multipul.dll
